@@ -45,8 +45,9 @@
   ```
         php artisan serve
   ```
- ### If further Problem
-    * Follow this link (https://devmarketer.io/learn/setup-laravel-project-cloned-github-com/)
+### If further Problem
+[Follow this link](https://devmarketer.io/learn/setup-laravel-project-cloned-github-com/)
+Or email me.
     
     
     
