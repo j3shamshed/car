@@ -12,6 +12,10 @@
     * Value percentage has calculated as random for example. Sometimes it shows 100%.
 ### URL
     * URL: http://localhost/cars/public/
+### CSV
+    * car/public/uploads/ directory you can find my csv file
+    * My csv has no header. It was generated from MySQL. Therefore my code does not remove csv header.
+    * Header remove code is available in car\app\Http\Controllers CarController.php line number 189 to 193.
 ## Ho to set up in my local machine
     * clone the repository
     * cd into your project
